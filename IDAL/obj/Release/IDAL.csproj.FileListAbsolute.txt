@@ -1,0 +1,10 @@
+C:\Users\xjqr\Desktop\医院信息系统作业\HIS\IDAL\bin\Release\IDAL.dll
+C:\Users\xjqr\Desktop\医院信息系统作业\HIS\IDAL\bin\Release\IDAL.pdb
+C:\Users\xjqr\Desktop\医院信息系统作业\HIS\IDAL\obj\Release\IDAL.csproj.CoreCompileInputs.cache
+C:\Users\xjqr\Desktop\医院信息系统作业\HIS\IDAL\obj\Release\IDAL.dll
+C:\Users\xjqr\Desktop\医院信息系统作业\HIS\IDAL\obj\Release\IDAL.pdb
+C:\Users\xjqr\Desktop\门急诊信息系统源码及汇报PPT\HIS\IDAL\bin\Release\IDAL.dll
+C:\Users\xjqr\Desktop\门急诊信息系统源码及汇报PPT\HIS\IDAL\bin\Release\IDAL.pdb
+C:\Users\xjqr\Desktop\门急诊信息系统源码及汇报PPT\HIS\IDAL\obj\Release\IDAL.csproj.CoreCompileInputs.cache
+C:\Users\xjqr\Desktop\门急诊信息系统源码及汇报PPT\HIS\IDAL\obj\Release\IDAL.dll
+C:\Users\xjqr\Desktop\门急诊信息系统源码及汇报PPT\HIS\IDAL\obj\Release\IDAL.pdb

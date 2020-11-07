@@ -1,0 +1,14 @@
+C:\Users\xjqr\Desktop\医院信息系统作业\HIS\登录\LogicMODEL\bin\Debug\LogicMODEL.dll
+C:\Users\xjqr\Desktop\医院信息系统作业\HIS\登录\LogicMODEL\bin\Debug\LogicMODEL.pdb
+C:\Users\xjqr\Desktop\医院信息系统作业\HIS\HIS\Module\Logic\LogicMODEL.dll
+C:\Users\xjqr\Desktop\医院信息系统作业\HIS\HIS\Module\Logic\LogicMODEL.pdb
+C:\Users\xjqr\Desktop\医院信息系统作业\HIS\登录\LogicMODEL\obj\Debug\LogicMODEL.csproj.CoreCompileInputs.cache
+C:\Users\xjqr\Desktop\医院信息系统作业\HIS\登录\LogicMODEL\obj\Debug\LogicMODEL.dll
+C:\Users\xjqr\Desktop\医院信息系统作业\HIS\登录\LogicMODEL\obj\Debug\LogicMODEL.pdb
+C:\Users\xjqr\Desktop\医院信息系统作业\HIS\登录\LogicMODEL\obj\Debug\LogicMODEL.csprojAssemblyReference.cache
+C:\Users\xjqr\Desktop\门急诊信息系统源码及汇报PPT\HIS\HIS\Module\Logic\LogicMODEL.dll
+C:\Users\xjqr\Desktop\门急诊信息系统源码及汇报PPT\HIS\HIS\Module\Logic\LogicMODEL.pdb
+C:\Users\xjqr\Desktop\门急诊信息系统源码及汇报PPT\HIS\登录\LogicMODEL\obj\Debug\LogicMODEL.csprojAssemblyReference.cache
+C:\Users\xjqr\Desktop\门急诊信息系统源码及汇报PPT\HIS\登录\LogicMODEL\obj\Debug\LogicMODEL.csproj.CoreCompileInputs.cache
+C:\Users\xjqr\Desktop\门急诊信息系统源码及汇报PPT\HIS\登录\LogicMODEL\obj\Debug\LogicMODEL.dll
+C:\Users\xjqr\Desktop\门急诊信息系统源码及汇报PPT\HIS\登录\LogicMODEL\obj\Debug\LogicMODEL.pdb

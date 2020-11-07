@@ -1,0 +1,12 @@
+C:\Users\xjqr\Desktop\医院信息系统作业\HIS\门诊挂号\RegisteredMODEL\bin\Debug\RegisteredMODEL.dll
+C:\Users\xjqr\Desktop\医院信息系统作业\HIS\门诊挂号\RegisteredMODEL\bin\Debug\RegisteredMODEL.pdb
+C:\Users\xjqr\Desktop\医院信息系统作业\HIS\门诊挂号\RegisteredMODEL\obj\Debug\RegisteredMODEL.csproj.CoreCompileInputs.cache
+C:\Users\xjqr\Desktop\医院信息系统作业\HIS\门诊挂号\RegisteredMODEL\obj\Debug\RegisteredMODEL.dll
+C:\Users\xjqr\Desktop\医院信息系统作业\HIS\门诊挂号\RegisteredMODEL\obj\Debug\RegisteredMODEL.pdb
+C:\Users\xjqr\Desktop\医院信息系统作业\HIS\门诊挂号\RegisteredMODEL\obj\Debug\RegisteredMODEL.csprojAssemblyReference.cache
+C:\Users\xjqr\Desktop\门急诊信息系统源码及汇报PPT\HIS\门诊挂号\RegisteredMODEL\bin\Debug\RegisteredMODEL.dll
+C:\Users\xjqr\Desktop\门急诊信息系统源码及汇报PPT\HIS\门诊挂号\RegisteredMODEL\bin\Debug\RegisteredMODEL.pdb
+C:\Users\xjqr\Desktop\门急诊信息系统源码及汇报PPT\HIS\门诊挂号\RegisteredMODEL\obj\Debug\RegisteredMODEL.csprojAssemblyReference.cache
+C:\Users\xjqr\Desktop\门急诊信息系统源码及汇报PPT\HIS\门诊挂号\RegisteredMODEL\obj\Debug\RegisteredMODEL.csproj.CoreCompileInputs.cache
+C:\Users\xjqr\Desktop\门急诊信息系统源码及汇报PPT\HIS\门诊挂号\RegisteredMODEL\obj\Debug\RegisteredMODEL.dll
+C:\Users\xjqr\Desktop\门急诊信息系统源码及汇报PPT\HIS\门诊挂号\RegisteredMODEL\obj\Debug\RegisteredMODEL.pdb

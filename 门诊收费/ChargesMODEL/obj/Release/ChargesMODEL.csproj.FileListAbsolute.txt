@@ -1,0 +1,5 @@
+C:\Users\xjqr\Desktop\医院信息系统作业\HIS\门诊收费\ChargesMODEL\bin\Release\ChargesMODEL.dll
+C:\Users\xjqr\Desktop\医院信息系统作业\HIS\门诊收费\ChargesMODEL\bin\Release\ChargesMODEL.pdb
+C:\Users\xjqr\Desktop\医院信息系统作业\HIS\门诊收费\ChargesMODEL\obj\Release\ChargesMODEL.csproj.CoreCompileInputs.cache
+C:\Users\xjqr\Desktop\医院信息系统作业\HIS\门诊收费\ChargesMODEL\obj\Release\ChargesMODEL.dll
+C:\Users\xjqr\Desktop\医院信息系统作业\HIS\门诊收费\ChargesMODEL\obj\Release\ChargesMODEL.pdb

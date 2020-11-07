@@ -1,0 +1,10 @@
+C:\Users\xjqr\Desktop\医院信息系统作业\HIS\医生工作站\DoctorWorkstationMODEL\bin\Debug\DoctorWorkstationMODEL.dll
+C:\Users\xjqr\Desktop\医院信息系统作业\HIS\医生工作站\DoctorWorkstationMODEL\bin\Debug\DoctorWorkstationMODEL.pdb
+C:\Users\xjqr\Desktop\医院信息系统作业\HIS\医生工作站\DoctorWorkstationMODEL\obj\Debug\DoctorWorkstationMODEL.csproj.CoreCompileInputs.cache
+C:\Users\xjqr\Desktop\医院信息系统作业\HIS\医生工作站\DoctorWorkstationMODEL\obj\Debug\DoctorWorkstationMODEL.dll
+C:\Users\xjqr\Desktop\医院信息系统作业\HIS\医生工作站\DoctorWorkstationMODEL\obj\Debug\DoctorWorkstationMODEL.pdb
+C:\Users\xjqr\Desktop\门急诊信息系统源码及汇报PPT\HIS\医生工作站\DoctorWorkstationMODEL\bin\Debug\DoctorWorkstationMODEL.dll
+C:\Users\xjqr\Desktop\门急诊信息系统源码及汇报PPT\HIS\医生工作站\DoctorWorkstationMODEL\bin\Debug\DoctorWorkstationMODEL.pdb
+C:\Users\xjqr\Desktop\门急诊信息系统源码及汇报PPT\HIS\医生工作站\DoctorWorkstationMODEL\obj\Debug\DoctorWorkstationMODEL.csproj.CoreCompileInputs.cache
+C:\Users\xjqr\Desktop\门急诊信息系统源码及汇报PPT\HIS\医生工作站\DoctorWorkstationMODEL\obj\Debug\DoctorWorkstationMODEL.dll
+C:\Users\xjqr\Desktop\门急诊信息系统源码及汇报PPT\HIS\医生工作站\DoctorWorkstationMODEL\obj\Debug\DoctorWorkstationMODEL.pdb

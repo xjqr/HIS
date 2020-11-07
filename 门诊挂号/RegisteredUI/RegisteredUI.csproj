@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DB0CEBCD-F37A-4221-B1A2-0F845307333C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>RegisteredUI</RootNamespace>
+    <AssemblyName>RegisteredUI</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Guahaochaxun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Guahaochaxun.Designer.cs">
+      <DependentUpon>Guahaochaxun.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Guanliyuanyanzheng.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Guanliyuanyanzheng.Designer.cs">
+      <DependentUpon>Guanliyuanyanzheng.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Qvxiaoguahao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Qvxiaoguahao.Designer.cs">
+      <DependentUpon>Qvxiaoguahao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Shoufeitongji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Shoufeitongji.Designer.cs">
+      <DependentUpon>Shoufeitongji.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UiMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UiMain.Designer.cs">
+      <DependentUpon>UiMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Xitongguanli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Xitongguanli.Designer.cs">
+      <DependentUpon>Xitongguanli.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Guahaochaxun.resx">
+      <DependentUpon>Guahaochaxun.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Guanliyuanyanzheng.resx">
+      <DependentUpon>Guanliyuanyanzheng.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Qvxiaoguahao.resx">
+      <DependentUpon>Qvxiaoguahao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Shoufeitongji.resx">
+      <DependentUpon>Shoufeitongji.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UiMain.resx">
+      <DependentUpon>UiMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Xitongguanli.resx">
+      <DependentUpon>Xitongguanli.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\RegisteredBLL\RegisteredBLL.csproj">
+      <Project>{72ab3e21-6c17-456b-b907-b51c5d3c516e}</Project>
+      <Name>RegisteredBLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RegisteredMODEL\RegisteredMODEL.csproj">
+      <Project>{4b66518c-ea81-452b-8ab8-ec57037378a2}</Project>
+      <Name>RegisteredMODEL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

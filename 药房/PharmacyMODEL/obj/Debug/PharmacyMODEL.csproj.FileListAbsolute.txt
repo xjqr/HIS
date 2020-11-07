@@ -1,0 +1,5 @@
+C:\Users\xjqr\Desktop\医院信息系统作业\HIS\药房\PharmacyMODEL\bin\Debug\PharmacyMODEL.dll
+C:\Users\xjqr\Desktop\医院信息系统作业\HIS\药房\PharmacyMODEL\bin\Debug\PharmacyMODEL.pdb
+C:\Users\xjqr\Desktop\医院信息系统作业\HIS\药房\PharmacyMODEL\obj\Debug\PharmacyMODEL.csproj.CoreCompileInputs.cache
+C:\Users\xjqr\Desktop\医院信息系统作业\HIS\药房\PharmacyMODEL\obj\Debug\PharmacyMODEL.dll
+C:\Users\xjqr\Desktop\医院信息系统作业\HIS\药房\PharmacyMODEL\obj\Debug\PharmacyMODEL.pdb

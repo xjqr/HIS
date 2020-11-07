@@ -1,0 +1,12 @@
+C:\Users\xjqr\Desktop\医院信息系统作业\HIS\用户管理\UserManageMODEL\bin\Debug\UserManageMODEL.dll
+C:\Users\xjqr\Desktop\医院信息系统作业\HIS\用户管理\UserManageMODEL\bin\Debug\UserManageMODEL.pdb
+C:\Users\xjqr\Desktop\医院信息系统作业\HIS\用户管理\UserManageMODEL\obj\Debug\UserManageMODEL.csproj.CoreCompileInputs.cache
+C:\Users\xjqr\Desktop\医院信息系统作业\HIS\用户管理\UserManageMODEL\obj\Debug\UserManageMODEL.dll
+C:\Users\xjqr\Desktop\医院信息系统作业\HIS\用户管理\UserManageMODEL\obj\Debug\UserManageMODEL.pdb
+C:\Users\xjqr\Desktop\医院信息系统作业\HIS\用户管理\UserManageMODEL\obj\Debug\UserManageMODEL.csprojAssemblyReference.cache
+C:\Users\xjqr\Desktop\门急诊信息系统源码及汇报PPT\HIS\用户管理\UserManageMODEL\bin\Debug\UserManageMODEL.dll
+C:\Users\xjqr\Desktop\门急诊信息系统源码及汇报PPT\HIS\用户管理\UserManageMODEL\bin\Debug\UserManageMODEL.pdb
+C:\Users\xjqr\Desktop\门急诊信息系统源码及汇报PPT\HIS\用户管理\UserManageMODEL\obj\Debug\UserManageMODEL.csprojAssemblyReference.cache
+C:\Users\xjqr\Desktop\门急诊信息系统源码及汇报PPT\HIS\用户管理\UserManageMODEL\obj\Debug\UserManageMODEL.csproj.CoreCompileInputs.cache
+C:\Users\xjqr\Desktop\门急诊信息系统源码及汇报PPT\HIS\用户管理\UserManageMODEL\obj\Debug\UserManageMODEL.dll
+C:\Users\xjqr\Desktop\门急诊信息系统源码及汇报PPT\HIS\用户管理\UserManageMODEL\obj\Debug\UserManageMODEL.pdb
